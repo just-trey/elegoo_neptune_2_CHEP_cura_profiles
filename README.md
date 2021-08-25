@@ -12,9 +12,11 @@ To download them:
 ## My modifications
 
 ### All profiles
+
 Changed the naming of the files to make them clearer
 
 ### neptune_2_cura_4.10_0.12(best).curaprofile
+
 - Set `adaptive_layer_height_enabled` to`true`
 - Set `support_enable` to `false`
 - Set `coasting_enable` to `True`
@@ -23,9 +25,10 @@ Changed the naming of the files to make them clearer
   - `infill_pattern`
   - `skirt_brim_speed`
   - `speed_layer_0`
-  ` `travel_compensate_overlapping_walls_0_enabled`
+  - `travel_compensate_overlapping_walls_0_enabled`
 
 ### neptune_2_cura_4.10_0.2(good).curaprofile
+
 - Set `adaptive_layer_height_enabled` to`true`
 - Set `coasting_enable` to `True`
 - Set `infill_sparse_density` to `25`
@@ -36,9 +39,10 @@ Changed the naming of the files to make them clearer
   - `infill_pattern`
   - `skirt_brim_speed`
   - `speed_layer_0`
-  ` `travel_compensate_overlapping_walls_0_enabled`
+  - `travel_compensate_overlapping_walls_0_enabled`
 
 ### neptune_2_cura_4.10_0.28(rough).curaprofile
+
 - Set `adaptive_layer_height_enabled` to`true`
 - Set `skirt_line_count` to  `2`
 - Set a few items to be calculated rather than a hard coded value 
