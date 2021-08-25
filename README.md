@@ -41,7 +41,7 @@ Changed the naming of the files to make them clearer
 ### neptune_2_cura_4.10_0.28(rough).curaprofile
 - Set `adaptive_layer_height_enabled` to`true`
 - Set `skirt_line_count` to  `2`
-  - Set a few items to be calculated rather than a hard coded value 
+- Set a few items to be calculated rather than a hard coded value 
   - `infill_pattern`
   - `skirt_brim_speed`
   - `speed_layer_0`
