@@ -13,39 +13,9 @@ To download them:
 
 ### All profiles
 
-Changed the naming of the files to make them clearer
+- Changed the naming of the files to aling with Neptune 2
+- Set `skirt_line_count` to  `2` (1 just did not seem like enough for me to make sure my bed was level. 
 
 ### neptune_2_cura_4.10_0.12(best).curaprofile
 
-- Set `adaptive_layer_height_enabled` to`true`
 - Set `support_enable` to `false`
-- Set `coasting_enable` to `True`
-- Set `skirt_line_count` to  `2`
-- Set a few items to be calculated rather than a hard coded value 
-  - `infill_pattern`
-  - `skirt_brim_speed`
-  - `speed_layer_0`
-  - `travel_compensate_overlapping_walls_0_enabled`
-
-### neptune_2_cura_4.10_0.2(good).curaprofile
-
-- Set `adaptive_layer_height_enabled` to`true`
-- Set `coasting_enable` to `True`
-- Set `infill_sparse_density` to `25`
-- Set `skirt_line_count` to  `2`
-- Removed `xy_offset_layer_0` setting
-- Set a few items to be calculated rather than a hard coded value 
-  - `cool_fan_speed`
-  - `infill_pattern`
-  - `skirt_brim_speed`
-  - `speed_layer_0`
-  - `travel_compensate_overlapping_walls_0_enabled`
-
-### neptune_2_cura_4.10_0.28(rough).curaprofile
-
-- Set `adaptive_layer_height_enabled` to`true`
-- Set `skirt_line_count` to  `2`
-- Set a few items to be calculated rather than a hard coded value 
-  - `infill_pattern`
-  - `skirt_brim_speed`
-  - `speed_layer_0`
