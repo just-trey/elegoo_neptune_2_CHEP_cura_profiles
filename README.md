@@ -1,6 +1,6 @@
-# Elegoo Neptune 2 "CHEP" Cura 4.11 Profiles
+# Elegoo Neptune 2 "CHEP" Cura 4.13 Profiles
 
-For those using Toylerrr's Cura custom profile for the Neptune 2 from here (https://www.thingiverse.com/thing:4899915) or here (https://github.com/Toylerrr/ELEGOO_Neptune2_Cura). I figured out how to modify the popular [CHEP printer profile settings](https://www.chepclub.com/cura-profiles.html) so you can add them in Cura 4.12.
+For those using Toylerrr's Cura custom profile for the Neptune 2 from here (https://www.thingiverse.com/thing:4899915) or here (https://github.com/Toylerrr/ELEGOO_Neptune2_Cura). I figured out how to modify the popular [CHEP printer profile settings](https://www.chepclub.com/cura-profiles.html) so you can add them in Cura 4.13.
 
 To download them:
 
